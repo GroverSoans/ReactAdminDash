@@ -43,7 +43,7 @@
     "build": "tsc && refine build",
     "start": "refine start",
     "refine": "refine",
-    "codegen": "graphql-codegen"
+    "codegen": "graphql-codegen" 
   },
   "browserslist": {
     "production": [
